@@ -1,5 +1,6 @@
 faiss-cpu
 numpy
 sentence_transformers
-grok
+groq
 pypdf2
+torch
