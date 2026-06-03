@@ -33,5 +33,5 @@ By leveraging Retrieval-Augmented Generation (RAG), this tool semantically match
    git clone https://github.com/your-username/constitutional-compliance-analyzer.git
    cd constitutional-compliance-analyzer
 
-###Live Demo
+### Live Demo
 https://juriscomply.streamlit.app/
